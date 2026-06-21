@@ -7,13 +7,8 @@ A Student Performance Management System
 - It will provide analytical features such as class average and performance-based filtering. 
 - The project will be developed as a console-based application in Python.
 
-Key Features
-- Add new student records 
-- View all student records 
-- Search student by Roll Number or Name 
-- Update existing student information 
-- Delete student records 
-- Calculate class average 
-- Automatically assign grades 
-- Filter students by grade category (Distinction, First Class, Second Class, Fail) 
-- Find class topper(s) 
+# Data-Intelligence-Bootcamp-Assignment-2
+The Satellite Weather Image Grid Fixer
+- Imagine a satellite sends weather data as a messy 24 \times 24 grid of numbers.
+- This is a program to reshape it into a 3D matrix representing morning, afternoon, and night blocks.
+- This uses a Boolean mask to find all temperature spots that are dangerously high, and replace those bad readings with the average temperature of the entire grid in one step without using any loops.
